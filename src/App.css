@@ -1,0 +1,20 @@
+/* navbar */
+nav{
+    background: rgb(218, 214, 228);
+    position: fixed;
+}
+
+.navbar-nav a{
+    font-size: 18px;
+}
+
+/* card */
+.card{
+    box-shadow: 1px 1px 1px 1px rgba(57, 55, 55, 0.35);
+}
+
+
+/* footer */
+.footer{
+    background-color: #262626;
+}
